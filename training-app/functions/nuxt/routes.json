@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/ec2-user/environment/training-app/src/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7bed3d63"
+  }
+]
